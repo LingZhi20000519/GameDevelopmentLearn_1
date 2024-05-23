@@ -3,10 +3,10 @@
 这个项目用来记录一下自己开发的第一个“游戏”。也许称不上游戏，只是一个能跑能跳的程序而已。
 
 游戏界面如下：
-![游戏界面](ReadMePicture\GameInterface.jpg)  
+![游戏界面](/ReadMePicture/GameInterface.jpg)  
 
 使用Godot4.2.3开发，开发界面如下：
-![开发界面](ReadMePicture\GameDevelopmentInterface.jpg)
+![开发界面](/ReadMePicture/GameDevelopmentInterface.jpg)
 
 ## 学习过程
 
