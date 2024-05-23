@@ -8,6 +8,8 @@
 使用Godot4.2.3开发，开发界面如下：
 ![开发界面](/ReadMePicture/GameDevelopmentInterface.jpg)
 
+[点击这里下载这个游戏Demo的exe文件](https://github.com/LingZhi20000519/GameDevelopmentLearn_1/raw/main/BrackeysFirstGame.exe)
+
 ## 学习过程
 
 跟着b站上up主搬运的Brackeys的Godot教程学习的，全程基本上没有什么卡住的地方，新手入门超级友好。
